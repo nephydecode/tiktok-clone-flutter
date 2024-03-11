@@ -1,16 +1,10 @@
-# tiktok_project
+# TikTok Clone - Flutter
 
-A new Flutter project.
+> Note: This project was created back in 2021 for learning purposes & may not be fully functional or up-to-date with the latest Flutter changes.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/nephydecode/tiktok-clone-flutter/blob/main/assets/preview.gif" alt="Preview GIF" height="400"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Disclaimer
+This project was created for educational purposes and as a demonstration of Flutter development. It is not actively maintained or functional due to the changes in Flutter framework since its creation in 2021.
